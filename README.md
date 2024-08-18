@@ -1,4 +1,4 @@
-### Hey, I'm Fabricio (Or you can just me Fabs)!!
+### Hey, I'm Fabricio (Or you can just call me Fabs)!!
 
 
 💻 Data science and computing student and looking to share all my journey and learninhs in tech <br/>
