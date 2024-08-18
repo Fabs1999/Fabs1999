@@ -1,7 +1,7 @@
 ### Hey, I'm Fabricio (Or you can just call me Fabs)!!
 
 
-💻 Data science and computing student and looking to share all my journey and learninhs in tech <br/>
+💻 Data science and computing student and looking to share all my journey and learnings in tech <br/>
 🧑🏽‍🎓 Currently studying at Birkbeck University of London in the UK <br/>
 🇧🇷 Originally from Brazil but living in the UK 🇬🇧 since 2016 <br/>
 🤖 Soon to be learning [Machine Learning](https://www.udemy.com/course/python-machine-learning/?couponCode=KEEPLEARNING) on my spare time <br/>
